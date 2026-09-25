@@ -1,5 +1,5 @@
 ﻿F12::
-Loop 100
+Loop 400
 {
    Loop 5
    {
